@@ -1,3 +1,14 @@
+AutoGluon: AutoML Toolkit for Deep Learning¶¶
+AutoGluon enables easy-to-use and easy-to-extend AutoML with a focus on deep learning and real-world applications spanning image, text, or tabular data. Intended for both ML beginners and experts, AutoGluon enables you to:
+
+Quickly prototype deep learning solutions for your data with few lines of code.
+
+Leverage automatic hyperparameter tuning, model selection / architecture search, and data processing.
+
+Automatically utilize state-of-the-art deep learning techniques without expert knowledge.
+
+Easily improve existing bespoke models and data pipelines, or customize AutoGluon for your use-case.
+
 ### Featured Video:
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
