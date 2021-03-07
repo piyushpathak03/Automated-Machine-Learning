@@ -6,6 +6,9 @@ Automated machine learning (AutoML) basically involves automating the end-to-end
 ### Featured Video:
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
+Video link 
+https://www.youtube.com/watch?v=j2gipG0yBVM
+
 ## About me
 
 **Piyush Pathak**
