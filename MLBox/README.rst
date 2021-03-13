@@ -8,7 +8,6 @@
 * Prediction with models interpretation
 
 ### Featured Video:
-
 <p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
 ## About me
